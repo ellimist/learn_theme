@@ -116,4 +116,5 @@ $THEME->layouts = array(
     ),
 );
 $THEME->javascripts = array('analytics');
+$THEME->rendererfactory = 'theme_overridden_renderer_factory';
 ?>
